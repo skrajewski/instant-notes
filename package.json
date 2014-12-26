@@ -1,13 +1,12 @@
 {
   "name": "InstantNotes",
   "version": "0.1.0",
-  "description": "Instant note - just write note and save to bookmark!",
-  "main": "index.js",
+  "description": "Instant notes - just write note and save to bookmarks!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Szymon Krajewski <szykra@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "browserify": "^8.0.1",
     "gulp": "^3.8.10",
