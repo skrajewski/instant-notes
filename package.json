@@ -1,0 +1,24 @@
+{
+  "name": "InstantNotes",
+  "version": "0.1.0",
+  "description": "Instant note - just write note and save to bookmark!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^8.0.1",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-livereload": "^3.0.2",
+    "gulp-run": "^1.6.5",
+    "gulp-shell": "^0.2.11",
+    "vinyl-transform": "^1.0.0"
+  },
+  "dependencies": {
+    "js-base64": "^2.1.5",
+    "markdown": "^0.5.0"
+  }
+}
