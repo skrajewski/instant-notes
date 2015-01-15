@@ -1,8 +1,8 @@
 Instant Notes
 =============
 
-![dependencies](https://img.shields.io/david/szykra/instant-notes.svg?style=flat-square)
-![devDependencies](https://img.shields.io/david/dev/szykra/instant-notes.svg?style=flat-square)
+![dependencies](https://img.shields.io/david/skrajewski/instant-notes.svg?style=flat-square)
+![devDependencies](https://img.shields.io/david/dev/skrajewski/instant-notes.svg?style=flat-square)
 
 _Project created for fun and learn._
 
