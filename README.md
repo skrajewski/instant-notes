@@ -18,11 +18,11 @@ Create beautiful notes using _Markdown_ syntax and store content in location bar
 
 ## Live demo
 
-<http://instantnote.tk> or go to [example note](http://instantnote.tk/#/SSBzYXkgaGVsbG8gOikKPT09PT09PT09PT09PT09PT0KClRoaXMgaXMgbXkgbm90ZXBhZC4gSSBjYW4gd3JpdGUgaGVyZSB3aGF0IEkgY2FuIGFuZCB3aGF0IEkgd2FudC4gCgoqKldoYXQgaXMgaXQ/KioKCi0gTWFya2Rvd24gc3ludGF4Ci0gUHJldmlldyBpbiByZWFsIHRpbWUKLSBTdG9yZSBub3RlIGluIGxvY2F0aW9uIGJhcgotIE5vIGRhdGFiYXNlCi0gUmVzaXphYmxlIHBhbmVscwo=) 
+<http://skrajewski.github.io/instant-notes> or go to [example note](http://skrajewski.github.io/instant-notes/#/SSBzYXkgaGVsbG8gOikKPT09PT09PT09PT09PT09PT0KClRoaXMgaXMgbXkgbm90ZXBhZC4gSSBjYW4gd3JpdGUgaGVyZSB3aGF0IEkgY2FuIGFuZCB3aGF0IEkgd2FudC4gCgoqKldoYXQgaXMgaXQ/KioKCi0gTWFya2Rvd24gc3ludGF4Ci0gUHJldmlldyBpbiByZWFsIHRpbWUKLSBTdG9yZSBub3RlIGluIGxvY2F0aW9uIGJhcgotIE5vIGRhdGFiYXNlCi0gUmVzaXphYmxlIHBhbmVscwo=)
 
 ## Want to run notepad locally?
 
-Just open a `public/index.html` file in browser. 
+Just open a `docs/index.html` file in browser. 
 
 Testing in _Chrome 39_. IE does not support long urls. And more...
 
